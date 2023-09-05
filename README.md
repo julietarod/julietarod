@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julietarod
-- 👀 I’m interested in music, design & psychology
-- 🌱 I’m currently learning code & ux
-- 💞️ I’m looking to collaborate on culture/health/sustainability related projects
+- 👀 I’m interested in web communication design & web development
+- 🌱 I’m currently learning javascript & UX design principles 
+- 💞️ I’m looking to collaborate on culture/health/sustainability-related projects
 - 📫 How to reach me: julietarodriguezba@gmail.com
 
 <!---
