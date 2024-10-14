@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @julietarod
-- 👀 I’m interested in web communication design & web development
-- 🌱 I’m currently learning javascript & UX design principles 
-- 💞️ I’m looking to collaborate on culture/health/sustainability-related projects
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning UX design principles 
 - 📫 How to reach me: julietarodriguezba@gmail.com
 
 <!---
